@@ -3,13 +3,11 @@ In this project, I will set up a "Hello world" repository. No complex coding is 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html And CSS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+No Live Demo Available
 
 
 ## Getting Started
@@ -21,16 +19,9 @@ In this project, I will set up a "Hello world" repository. No complex coding is 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+Working PC and an internet connection
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Access Github And Make a copy of the repository and Clone Locally
 
 
 
@@ -45,9 +36,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+No external Contribution in this project
 
 ## Show your support
 
@@ -55,9 +44,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Myself
 
 ## 📝 License
 
